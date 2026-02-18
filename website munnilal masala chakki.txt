@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Munnilal Masala Chakki | Pure & Fresh Masale</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #fffaf2;
+      color: #333;
+    }
+    header {
+      background: #b30000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 16px;
+    }
+    nav {
+      background: #ffcc00;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #000;
+      font-weight: bold;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #b30000;
+      margin-bottom: 10px;
+    }
+    .services ul {
+      list-style: none;
+      padding: 0;
+    }
+    .services li {
+      background: #fff;
+      margin: 8px 0;
+      padding: 10px;
+      border-left: 5px solid #ffcc00;
+    }
+    .contact {
+      background: #fff;
+      padding: 20px;
+      border: 1px solid #ddd;
+    }
+    .contact p {
+      margin: 8px 0;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
+      background: #25D366;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      background: #b30000;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Munnilal Masala Chakki</h1>
+    <p>Pure & Fresh Masale – Aapke Samne Pise Hue</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Masale</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="home">
+    <h2>Welcome</h2>
+    <p>
+      Swagat hai <strong>Munnilal Masala Chakki</strong> mein. 
+      Yahan aapko milte hain 100% shuddh, taaza aur hygienic masale — 
+      bina milawat, bina compromise.
+    </p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      Hum kai saalon se Bhind, Madhya Pradesh mein vishwas ke saath masale pees rahe hain. 
+      Hamari pehchaan hai safai, quality aur customer satisfaction.
+    </p>
+  </section>
+
+  <section id="services" class="services">
+    <h2>Hamare Masale / Services</h2>
+    <ul>
+      <li>Lal Mirch Powder</li>
+      <li>Haldi Powder</li>
+      <li>Dhaniya Powder</li>
+      <li>Garam Masala</li>
+      <li>Customer ka apna raw masala grinding</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <div class="contact">
+      <p><strong>Address:</strong> Purani Basti, Kila Road, Govt School ke samne, Bhind, Madhya Pradesh</p>
+      <p><strong>Mobile:</strong> 9111376383</p>
+      <a class="btn" href="https://wa.me/919111376383" target="_blank">WhatsApp Order</a>
+    </div>
+  </section>
+
+  <footer>
+    © 2026 Munnilal Masala Chakki | All Rights Reserved
+  </footer>
+
+</body>
+</html>
